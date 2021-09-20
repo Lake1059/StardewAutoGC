@@ -28,10 +28,10 @@ StardewAutoGC_NET5 文件夹的版本仅适配于：官方64位（1.5.5）
 ### 截图
 图中的样式效果和渲染效果为 7861 和 1213  
 清理效果请以实际为准，清不下去就是真的清不下去
-![img](img\1.png)
+![img](https://raw.github.com/Lake1059/StardewAutoGC/main/img/1.png)
 
 如果你运行的是 32 位的游戏，程序会在占用达到 3500MB 时警告你
-![img](img\2.png)
+![img](https://raw.github.com/Lake1059/StardewAutoGC/main/img/2.png)
 
 ### 多语言
 两个模组版本均支持多语言，增加 i18n 语言文件即可
