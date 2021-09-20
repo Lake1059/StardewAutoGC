@@ -1,0 +1,10 @@
+C:\Visual Basic\StardewAutoGC_NET5\StardewAutoGC_NET5\bin\Debug\net5.0\StardewAutoGC_NET5.deps.json
+C:\Visual Basic\StardewAutoGC_NET5\StardewAutoGC_NET5\bin\Debug\net5.0\StardewAutoGC_NET5.dll
+C:\Visual Basic\StardewAutoGC_NET5\StardewAutoGC_NET5\bin\Debug\net5.0\StardewAutoGC_NET5.pdb
+C:\Visual Basic\StardewAutoGC_NET5\StardewAutoGC_NET5\obj\Debug\net5.0\StardewAutoGC_NET5.vbproj.AssemblyReference.cache
+C:\Visual Basic\StardewAutoGC_NET5\StardewAutoGC_NET5\obj\Debug\net5.0\StardewAutoGC_NET5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Basic\StardewAutoGC_NET5\StardewAutoGC_NET5\obj\Debug\net5.0\StardewAutoGC_NET5.AssemblyInfoInputs.cache
+C:\Visual Basic\StardewAutoGC_NET5\StardewAutoGC_NET5\obj\Debug\net5.0\StardewAutoGC_NET5.AssemblyInfo.vb
+C:\Visual Basic\StardewAutoGC_NET5\StardewAutoGC_NET5\obj\Debug\net5.0\StardewAutoGC_NET5.vbproj.CoreCompileInputs.cache
+C:\Visual Basic\StardewAutoGC_NET5\StardewAutoGC_NET5\obj\Debug\net5.0\StardewAutoGC_NET5.dll
+C:\Visual Basic\StardewAutoGC_NET5\StardewAutoGC_NET5\obj\Debug\net5.0\StardewAutoGC_NET5.pdb

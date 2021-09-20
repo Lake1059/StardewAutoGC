@@ -1,0 +1,14 @@
+﻿{
+    "Auto.Part1": "Auto GC Complete. ",
+    "Auto.Part2": "RAM from ",
+    "Auto.Part3": "reduce to ",
+
+    "Manual.Part1": "Manual GC Complete. ",
+    "Manual.Part2": "RAM from ",
+    "Manual.Part3": "reduce to ",
+
+    "RAMwarning.Part1": "Warning: The RAM usage is close to the crash limit.",
+    "RAMwarning.Part2": "Please return to the main menu and re-enter the save in time to avoid unnecessary losses.",
+
+    "ActiveRAMwarning": "The current game is 32-bit, RAM limit warning will be enabled.",
+}

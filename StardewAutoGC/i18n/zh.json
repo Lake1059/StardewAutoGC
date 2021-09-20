@@ -1,0 +1,14 @@
+﻿{
+    "Auto.Part1": "自动回收内存完成。",
+    "Auto.Part2": "RAM 占用从 ",
+    "Auto.Part3": "降低至 ",
+
+    "Manual.Part1": "手动回收内存完成。",
+    "Manual.Part2": "RAM 占用从 ",
+    "Manual.Part3": "降低至 ",
+
+    "RAMwarning.Part1": "警告：内存占用接近崩溃极限！",
+    "RAMwarning.Part2": "请及时返回主菜单重新进入存档，以免造成不必要的损失",
+
+    "ActiveRAMwarning": "当前游戏为32位，内存极限警告将启用",
+}

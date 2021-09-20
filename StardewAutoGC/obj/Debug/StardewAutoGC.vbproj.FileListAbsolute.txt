@@ -1,0 +1,20 @@
+C:\MyProject\StardewAutoGC\bin\Debug\StardewAutoGC.dll
+C:\MyProject\StardewAutoGC\bin\Debug\StardewAutoGC.pdb
+C:\MyProject\StardewAutoGC\bin\Debug\StardewAutoGC.xml
+C:\MyProject\StardewAutoGC\obj\Debug\StardewAutoGC.vbproj.AssemblyReference.cache
+C:\MyProject\StardewAutoGC\obj\Debug\StardewAutoGC.Resources.resources
+C:\MyProject\StardewAutoGC\obj\Debug\StardewAutoGC.vbproj.GenerateResource.cache
+C:\MyProject\StardewAutoGC\obj\Debug\StardewAutoGC.vbproj.CoreCompileInputs.cache
+C:\MyProject\StardewAutoGC\obj\Debug\StardewAutoGC.dll
+C:\MyProject\StardewAutoGC\obj\Debug\StardewAutoGC.xml
+C:\MyProject\StardewAutoGC\obj\Debug\StardewAutoGC.pdb
+C:\Visual Basic\StardewAutoGC\bin\Debug\StardewAutoGC.dll
+C:\Visual Basic\StardewAutoGC\bin\Debug\StardewAutoGC.pdb
+C:\Visual Basic\StardewAutoGC\bin\Debug\StardewAutoGC.xml
+C:\Visual Basic\StardewAutoGC\obj\Debug\StardewAutoGC.Resources.resources
+C:\Visual Basic\StardewAutoGC\obj\Debug\StardewAutoGC.vbproj.GenerateResource.cache
+C:\Visual Basic\StardewAutoGC\obj\Debug\StardewAutoGC.vbproj.CoreCompileInputs.cache
+C:\Visual Basic\StardewAutoGC\obj\Debug\StardewAutoGC.dll
+C:\Visual Basic\StardewAutoGC\obj\Debug\StardewAutoGC.xml
+C:\Visual Basic\StardewAutoGC\obj\Debug\StardewAutoGC.pdb
+C:\Visual Basic\StardewAutoGC\obj\Debug\StardewAutoGC.vbproj.AssemblyReference.cache
